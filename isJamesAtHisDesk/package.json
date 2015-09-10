@@ -1,0 +1,36 @@
+{
+  "name": "is-james-at-his-desk",
+  "version": "1.0.0",
+  "description": "AWS Lambda Node JS code for Amazon Echo Skill to ask Alexa: \"Alexa ask James where he is\"",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.61.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jai-Chaudhary/amazon-echo-isJamesAtHisDesk.git"
+  },
+  "keywords": [
+    "AWS",
+    "Lambda",
+    "Node",
+    "JS",
+    "AWS",
+    "Lambda",
+    "Node",
+    "JS",
+    "Location",
+    "Beacon"
+  ],
+  "author": "Jai-Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jai-Chaudhary/amazon-echo-isJamesAtHisDesk/issues"
+  },
+  "homepage": "https://github.com/Jai-Chaudhary/amazon-echo-isJamesAtHisDesk#readme"
+}
